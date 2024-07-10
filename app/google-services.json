@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430483824659",
+    "project_id": "mvsrevents-63a55",
+    "storage_bucket": "mvsrevents-63a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430483824659:android:1d9f51f7062f5b54b25fe6",
+        "android_client_info": {
+          "package_name": "com.college.mvsrevents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2YTq5EixZtThhR9aK_5vL2zooDdEGkRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

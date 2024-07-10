@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mvsrevents</string>
+    <string name="login">LOGIN</string>
+    <string name="attended_events">Attended Events</string>
+    <string name="open_drawer">Welcome</string>
+    <string name="close_drawer">Welcome</string>
+    <string name="default_web_client_id">40483824659-cq39p25ucrk47ofifomq4arulmb9h5sc.apps.googleusercontent.com</string>
+</resources>
